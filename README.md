@@ -1,23 +1,23 @@
 # Roger Ibarra
 
-**AI Systems & Fullstack Engineer**  
-Building MCP developer tooling, AST-driven systems, and vertical-slice architectures.
+**Fullstack & SaaS Developer**  
+Building reliable web applications, multi-tenant SaaS products, and developer tooling.
 
 [GitHub](https://github.com/Rogercode97) · [Email](mailto:Rogercarp97@gmail.com)
 
 ---
 
-### Focus & Work
+### What I'm Building
 
-- 🔍 **[Scouter](https://github.com/Rogercode97/scouter)** — AST-driven codebase intelligence and MCP server for autonomous AI agents (Go, SQLite, Bleve).
-- 🤖 **Autonomous Workflows** — Conversational agent engines with multi-tenant isolation (Supabase RLS), human-in-the-loop validation, and Meta Cloud APIs.
-- ⚡ **Fullstack Systems** — Vertical-slice architectures with FastAPI & Python, paired with modern interfaces using React 19, TanStack & Tailwind CSS v4.
+- 🛠️ **[Scouter](https://github.com/Rogercode97/scouter)** — A fast CLI tool built in Go for codebase analysis and developer workflows.
+- 🚀 **Multi-Tenant SaaS Platforms** — Scalable business apps featuring customer messaging, booking flows, and secure data isolation with Supabase RLS.
+- 💻 **Modern Fullstack Applications** — Clean, performant web apps powered by FastAPI on the backend and React 19 / TanStack on the frontend.
 
 ---
 
-### Stack & Tools
+### Tech Stack
 
-- **Languages & Runtimes:** Go, Python 3.11+, TypeScript, Node.js
-- **Backend & Data:** FastAPI, Drizzle ORM, Supabase (PostgreSQL / RLS), Redis, Docker
-- **Frontend:** React 19, TanStack (Router / Query / Start), Tailwind CSS v4
-- **Tooling & AI:** Model Context Protocol (MCP), Pytest, Vitest, Biome, Ruff, UV
+- **Languages:** Go, Python, TypeScript, JavaScript
+- **Backend & Data:** FastAPI, Supabase (PostgreSQL), Drizzle ORM, Redis, Docker
+- **Frontend:** React 19, TanStack (Router & Query), Tailwind CSS
+- **Testing & Quality:** Pytest, Vitest, Biome, Ruff
